@@ -1,0 +1,196 @@
+*{
+    margin: 0px;
+    border: 0;
+}
+.dvnavbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    justify-content:space-around;
+    height:auto ;
+    min-height: 50px;
+    min-width: 1024px
+}
+
+.dvin {
+    color:white;
+    margin: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    padding: 0px;
+    font-family: 'Alumni Sans', sans-serif;
+}
+
+.dvproject{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    height: auto;
+    min-height: 45px;
+    min-width: 1024px
+}
+
+
+.divpromain {
+    background-color: black;
+    color: black;
+    font-size: 28px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 1024px;
+    min-height: 380px;
+
+}
+
+ol{ 
+    background-color:darkgray;
+    padding: 11px 180px;
+    border: 2px blue solid;
+}
+
+.divproimg{
+    border: 2px  solid blue;
+    height: 276px;
+    
+}
+
+
+.aboutheader{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:gray;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    height: auto;
+    min-height: 45px;
+    min-width: 1024px
+}
+.aboutsub{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: gray;
+    min-height: 300px;
+    min-width: 1024px;
+}
+.aboutlorem{
+    padding: 100px;
+}
+
+.aboutimg{
+    padding-left: 190px;
+}
+
+.divach{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:gray;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    height: auto;
+    min-height: 45px;
+    min-width: 1024px
+
+}
+
+.dvmainach{
+
+    background-color: gray;
+    color: black;
+    font-size: 28px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 1024px;
+    min-height: 380px;
+
+}
+
+.Darker{
+
+    background-color:dimgray;
+    padding: 11px 180px;
+    border: 2px black solid;
+    height: 280px;
+    width: 200px;
+}
+
+
+
+.achimgdiv{
+    border: 2px  solid blue;
+    height: 300px;
+    margin-left: 24px;
+
+}
+
+
+.divconmain{
+
+    background-color: black;
+    color: black;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 1024px;
+    min-height: 240px;
+
+
+}
+
+.aykon {
+    display: flex;
+    align-items: center;
+    background-color:darkslateblue;
+    color: black;
+    font-size: 2.6rem;
+    justify-content: space-around;
+    min-width: 1024px;
+    height: 75px;
+
+}
+
+    
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+
+    color: red;
+    font-size: 3rem;
+}
+
+
+.dvin:hover{
+    color:red;
+    margin: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    padding: 0px;
+    font-family: 'Alumni Sans', sans-serif;
+}
+
